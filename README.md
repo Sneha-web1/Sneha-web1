@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Meb77Yg.jpeg">
 
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **PHP & MySQL**
 
 - 👯 I’m looking to collaborate on **Javascript, Reactjs**
 
