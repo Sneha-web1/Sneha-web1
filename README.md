@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.imgur.com/nXeX6ef.png)
+![MasterHead](https://i.imgur.com/nXeX6ef.png)
 <h1 align="center">Hi 👋, I'm Sneha Sahu</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Meb77Yg.jpeg">
