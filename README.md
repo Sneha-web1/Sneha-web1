@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **PHP & MySQL**
 
-- 👯 I’m looking to collaborate on **Javascript, Reactjs**
+- 👯 I’m looking to collaborate on **Javascript, Reactjs, PHP**
 
 - 💬 Ask me about **react, Javascript**
 
