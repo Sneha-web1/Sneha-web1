@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sneha Sahu</h1> <h3 align="center">A passionate Full Stack developer from India</h3> <img align="right" alt="Coding" width="400" src="https://i.imgur.com/Meb77Yg.jpeg">
 
-- 🌱 I'm currently learning **PHP & MySQL**
+- 🌱 I'm currently learning **PHP, MySQL, Next.js & Node.js**
 - 👯 I'm looking to collaborate on **JavaScript, React.js, PHP**
 - 💬 Ask me about **React, JavaScript**
 - ⚡ Fun fact: I enjoy turning ideas into interactive web apps
@@ -23,8 +23,10 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color:white; border-radius:5px;"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 </p>
+
 
