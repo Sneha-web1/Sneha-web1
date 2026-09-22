@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
+<a href="https://linkedin.com/in/Sneha-web1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha sahu" height="30" width="40" />
 </a>
 </p>
@@ -30,11 +30,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&locale=en&theme=radical" alt="YOUR-GITHUB-USERNAME" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sneha-web1&show_icons=true&locale=en&theme=radical" alt="Sneha-web1" width="48%" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical" alt="YOUR-GITHUB-USERNAME" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-web1&theme=radical" alt="Sneha-web1" width="48%" />
 </p>
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR-GITHUB-USERNAME&show_icons=true&locale=en&layout=compact&theme=radical" alt="YOUR-GITHUB-USERNAME" width="48%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneha-web1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sneha-web1" width="48%" />
 </p>
