@@ -27,14 +27,4 @@
 <a href="https://laravel.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sneha-web1&show_icons=true&locale=en&theme=radical" alt="Sneha-web1" width="48%" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-web1&theme=radical" alt="Sneha-web1" width="48%" />
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sneha-web1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Sneha-web1" width="48%" />
-</p>
 
