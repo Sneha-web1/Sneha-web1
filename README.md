@@ -143,15 +143,26 @@
 </p>
 
 ---
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Sneha-web1&show_icons=true&count_private=true&hide_border=true" alt="Sneha's GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sneha-web1&show_icons=true&hide_border=true&rank_icon=github"
+    alt="Sneha's GitHub Stats"
+  />
 </p>
 
+---
+
+### 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sneha-web1&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=Sneha-web1&hide_border=true"
+    alt="Sneha's GitHub Streak"
+  />
 </p>
 
 ---
@@ -159,7 +170,10 @@
 ### 💻 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-web1&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha-web1&layout=compact&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </p>
 
 ---
@@ -167,9 +181,11 @@
 ### ✨ Developer Quote
 
 <p align="center">
-<strong>“Turning ideas into clean, scalable and interactive web experiences.”</strong>
+  <strong>
+    “Turning ideas into clean, scalable and interactive web experiences.”
+  </strong>
 </p>
 
 <p align="center">
-⭐ <strong>Thanks for visiting my profile!</strong> ⭐
+  ⭐ <strong>Thanks for visiting my profile!</strong> ⭐
 </p>
